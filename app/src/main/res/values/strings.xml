@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Palavras</string>
+    <string name="trocar_layout">Trocar Layout</string>
 </resources>

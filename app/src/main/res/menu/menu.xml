@@ -2,8 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/Trocar_Layout"
-        android:title="Trocar Layout"
-        android:icon="@drawable/ic_lista"
+        android:title="@string/trocar_layout"
+        android:icon="@drawable/ic_lista_background"
         app:showAsAction="always"/>
 
 </menu>
