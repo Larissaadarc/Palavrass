@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array android:name="palavras">
+        <item>abecedário</item>
+        <item>acaju</item>
+        <item>alface</item>
+        <item>xapetada</item>
+        <item>xampu</item>
+    </string-array>
+</resources>
